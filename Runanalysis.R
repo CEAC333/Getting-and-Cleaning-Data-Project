@@ -32,7 +32,7 @@ test_y        <- read.table(test_y_file, sep="", header=FALSE)
 test_subject  <- read.table(test_subject_file, sep="", header=FALSE)
 
 # Construct a dataframe of test data including the subjects and activities performed
-test.frame  <- data.frame(test_subject, test_y, test_x)
+test.frame  <- data.frame(test_subject, test_x, test_y)
 
 
 
