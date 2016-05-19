@@ -16,5 +16,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 In this repository, you will find the following files:
 Readme.md, which details the items in the repository
 R script called Run_Analysis.R, which details the code for getting the data
-Codebook which describes all the data codes used, variables, and transformations that are used to perform the data cleaning process.
+Codebook which describes all the data codes used, variables, and transformations that are used to perform the data cleaning process
 Summary_data_tidy_data_set file, which shows all the data sets from the R script
